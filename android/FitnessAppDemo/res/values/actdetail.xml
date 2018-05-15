@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diet Chart</string> 
+    <string name="title_activity_splash">Splash</string>
+    
+   <string name="act_1">Monday:Aerobics Timings :6am - 9am Instructor :Mark Keiln </string>
+<string name="act_2">Wednesday:Yoga  Timings : 6am - 9am Instructor : Guru</string>
+<string name="act_3">Friday:HealthMap Timings : 9am - 11am Instructor :Jason</string>
+<string name="act_4">Sunday:AccuPressure Timings : 8am - 12pm Instructor : Simon</string>
+
+
+     </resources>

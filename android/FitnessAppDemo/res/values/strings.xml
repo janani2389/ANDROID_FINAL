@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="app_name">Fitness Club</string>
+   <string name="bmi">BMI Calculator</string>
+   
+    <string name="action_settings">Settings</string>
+    
+    <string name="weightLabel">Your Weight (lbs)</string>
+    
+    <string name="heightLabel">Your Height (feets)</string>
+    <string name="headerLabel">Fitness Club</string>
+     <string name="footerLabel">fitnessclub.com</string>
+    
+    <string name="calculateButton">Calculate</string>
+    
+    <string name="emptyString">resultLabel</string>
+    
+    <string name="weight">Your Weight (lbs)</string>
+    
+    <string name="empty">result</string>
+     <string name="title_activity_splash">Splash</string>
+     
+     
+    
+    <string name="quote_1">Copy your kitty: Learn to do stretching exercises when you wake up. It boosts circulation and digestion, and eases back pain. </string>
+    <string name="quote_2">Load up on vitamin C.We need at least 90 mg of vitamin C per day and the best way to get this is by eating at least five servings of fresh fruit and vegetables every day. So hit the oranges and guavas!</string>
+    <string name="quote_3">An apple a day keeps the doctor away </string>
+    <string name="quote_4"> Reject foods and drinks made of artificial colors or sweetener</string>
+    <string name="quote_5"> Increase your fiber intake. Eat foods with bright rich colors.</string>
+    <string name="Diet_1"> Monday: Have complete fruits for all the 3 meal for the first day</string>
+    <string name="Diet_2"> Tuesday: Have a moderate breakfast which includes cereas, soup and salad for lunch and cereals for the dinner </string>
+    <string name="Diet_3"> Wednesday: Have a combination of cereals and carbohydrates for breakfast and lunch and soup for dinner </string>
+    <string name="Diet_4"> Thursday: Have fruits for breakfast, considerable quantity of fish along with salad for lunch and wheat bread for dinner </string>
+    <string name="Diet_5"> Friday: Have a combination of cereals and carbohydrates for breakfast and lunch and soup for dinner </string>
+    <string name="Diet_6"> Saturday: Have a moderate breakfast which includes cereas, soup and salad for lunch and cereals for the dinner </string>
+    <string name="Diet_7"> Sunday: The choics is yours provided you dont take much fatty intake :) </string>
+    
+     <string name="act_1">Monday:Aerobics Timings :6am - 9am Instructor :Mark Keiln </string>
+<string name="act_2">Wednesday:Yoga  Timings : 6am - 9am Instructor : Guru</string>
+<string name="act_3">Friday:HealthMap Timings : 9am - 11am Instructor :Jason</string>
+<string name="act_4">Sunday:AccuPressure Timings : 8am - 12pm Instructor : Simon</string>
+	
+
+</resources>

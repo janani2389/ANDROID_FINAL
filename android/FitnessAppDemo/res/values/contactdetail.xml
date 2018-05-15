@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diet Chart</string> 
+    <string name="title_activity_splash">Splash</string>
+    
+    <string name="con_1">Instructor Name : Jim Morgan  Timings - Monday - Thursday 8am - 3pm  
+        Location : Monday Gym R-123  Tuesday Gym R-124 Wednesday Gym R-125 Thursday Gym R-128    </string>
+
+
+     </resources>
